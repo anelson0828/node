@@ -1,0 +1,25 @@
+{
+  "name": "standard",
+  "version": "1.0.0",
+  "description": "request",
+  "main": "bash.js",
+  "scripts": {
+    "test": "request"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anelson0828/node.git"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anelson0828/node/issues"
+  },
+  "homepage": "https://github.com/anelson0828/node#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
